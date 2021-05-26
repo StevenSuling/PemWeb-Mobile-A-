@@ -1,1 +1,2 @@
-# PemWeb-Mobile-A-
+modul 1 
+PHP (Hypertext PreProcessor) adalah bahasa komputer/bahasa pemrograman/koding/script yang digunakan untuk mengolah data dari server untuk ditampilkan di website. Jadi, PHP digunakan untuk membuat website dinamis. Dalam penggunaan murninya, kode-kode PHP disisipkan diantara kode HTML. File yang berisi script php harus berformat .php. dan Index array di PHP dihitung mulai dari 0.Sebuah array bisa menyimpan lebih dari satu nilai.Sebuah array asosiatif adalah sebuah array yang kuncinya bukan merupakan angka.Sebuah array multidimensi adalah array di dalam array.Untuk me-loop array biasa anda bisa gunakan for atau foreach, untuk array asosiatif gunakan foreach
