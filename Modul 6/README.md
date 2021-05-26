@@ -1,1 +1,1 @@
-# PemWeb-Mobile-A-
+react native merupakan salah satu alternative dalam pembuatan aplikasi, dapat diketahui bahwa yang dipelajari adalah cara membuat list yang memiliki fungsi search menggunakan react native yang akan di hubungkan kepada android Search list berguna untuk memfilter data yang ingin dicari atau digunakan sehingga memudahkan pengguna dalam pemakaiannya.
